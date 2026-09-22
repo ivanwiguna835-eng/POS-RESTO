@@ -1,0 +1,11 @@
+{
+  "name": "Bintang Restaurant",
+  "short_name": "Bintang",
+  "description": "Fine dining, beautifully served.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbfaf8",
+  "theme_color": "#a51d34",
+  "orientation": "portrait-primary",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
